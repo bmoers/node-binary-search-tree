@@ -1,6 +1,6 @@
 {
   "name": "@moers/binary-search-tree",
-  "version": "0.2.6",
+  "version": "0.3.0",
   "author": "Boris Moers",
   "description": "[Fork of 'Louis Chatriot' version] Different binary search tree implementations, including a self-balancing one (AVL)",
   "keywords": [
